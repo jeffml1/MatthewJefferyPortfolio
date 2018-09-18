@@ -1,0 +1,50 @@
+
+
+.blogPostContainer .card {
+    height: 500px;
+}
+
+.blogPostContainer .card .card-content {
+   height: 215px;
+}
+
+.blogPostContainer .card .card-image {
+    height: 385px;
+}
+
+.blogPostContainer .card .card-image > img {
+    height: 385px;
+}
+
+#wordpress-serves-dynamic-pages, #wordpress-configuration , #bad-plugins , #the-most-popular-wordpress-cache-plugin {
+    color: #6B6679;
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+
+.blogPostContainer .card .card-image .card-title {
+    background: linear-gradient(to right top, #051937, #00476e, #007b99, #00b2ae, #47e7ad);
+    width: 100%;
+    padding: 15px 24px;
+}
+
+#aboutMe {
+    padding: 24px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+#portfolio .card.medium .card-image {
+    height: 307px;
+    max-height: 100%;
+}
+
+#portfolio  .card.medium .card-image img {
+    height: 100%;
+}
+
+.blogPostContainer .card .card-image .card-title {
+    height: 102px;
+    display: flex;
+    align-items: center;
+}
