@@ -24,14 +24,14 @@ project_two_icon: photo_camera
 
 
 project_three: CT Business Solutions
-project_three_description: Website built using Simple CMS
+project_three_description: Website I built while working at The Logic Studio
 project_three_url: https://ctbs.nz
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Knox & Anderson
+project_four_description: Website I built while working at The Logic Studio
+project_four_url: http://knoxandanderson.co.nz
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
