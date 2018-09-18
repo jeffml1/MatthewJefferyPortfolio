@@ -64,7 +64,7 @@ experience:
 
 tools:
 #  - name: amazonwebservices
-  - name: android
+   - name: android
 #  - name: angularjs
  # - name: apache
  # - name: appcelerator
