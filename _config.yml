@@ -70,7 +70,7 @@ tools:
 # - name: apache
 # - name: appcelerator
 # - name: apple
-# - name: atom
+  - name: atom
 # - name: babel
 # - name: backbonejs
 # - name: bitbucket
@@ -98,7 +98,7 @@ tools:
 # - name: firefox
 # - name: foundation
 # - name: gatling
-# - name: gimp
+  - name: gimp
   - name: git
   - name: github
   - name: gitlab
@@ -146,20 +146,20 @@ tools:
 # - name: sequelize
   - name: slack
 # - name: sourcetree
-# - name: ssh
+  - name: ssh
 # - name: swift
 # - name: symfony
 # - name: tomcat
 # - name: travis
-# - name: trello
+  - name: trello
 # - name: twitter
 # - name: typescript
   - name: ubuntu
 # - name: vim
-# - name: visualstudio
+  - name: visualstudio
 # - name: vuejs
 # - name: webpack
-# - name: webstorm
+  - name: webstorm
 # - name: windows8
 # - name: wordpress
 # - name: yii
