@@ -2,7 +2,7 @@
 layout: post
 title:  "WordPress Page Load Times"
 date:   2018-08-27 16:15:05 +0000
-image: /assets/images/loading_wait.jpg
+image: assets/images/loading_wait.jpg
 ---
 
 Thanks to those of you who gave me feedback on my post, “Should I use WordPress or

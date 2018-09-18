@@ -2,7 +2,7 @@
 layout: post
 title:  "Building a website in an unknown framework"
 date:   2018-08-22 21:15:05 +0000
-image: /assets/images/twoscreen.jpg
+image: assets/images/twoscreen.jpg
 
 ---
 When building a website in a framework you don’t know, don’t be worried! I have some experience with this that I would like to share with you.

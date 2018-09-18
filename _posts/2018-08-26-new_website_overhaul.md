@@ -2,7 +2,7 @@
 layout: post
 title:  "Fresh Website Theme"
 date:   2018-08-26 16:15:05 +0000
-image: /assets/images/website_redesign.jpg
+image: assets/images/website_redesign.jpg
 ---
 
 As you may have noticed, I’ve made some changes to the theme on this website.

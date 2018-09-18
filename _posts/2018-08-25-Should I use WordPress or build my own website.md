@@ -2,7 +2,7 @@
 layout: post
 title:  "WordPress or build my own website?"
 date:   2018-08-25 21:15:05 +0000
-image: /assets/images/wordpress_jekyll.jpg
+image: assets/images/wordpress_jekyll.jpg
 ---
 When building your own portfolio/website, should you use Wordpress for convenience or
 should you invest time in building it yourself?
