@@ -45,10 +45,24 @@ experience:
   - name: css3
   - name: d3js
   - name: django
+  - name: bootstrap
+  - name: html5
+  - name: java
+  - name: javascript
+  - name: mongodb
+  - name: mysql
+  - name: nodejs
+  - name: php
+  - name: postgresql
+  - name: python
+  - name: react
+  - name: sass
+  - name: sequelize
+  - name: python
+  - name: webpack
+  - name: wordpress
 
-
-
-skills:
+tools:
 #  - name: amazonwebservices
   - name: android
 #  - name: angularjs
@@ -59,7 +73,7 @@ skills:
  # - name: babel
  # - name: backbonejs
  # - name: bitbucket
-  - name: bootstrap
+ # - name: bootstrap
  # - name: bower
  # - name: c
  # - name: chrome
@@ -67,13 +81,13 @@ skills:
  # - name: coffescript
  # - name: confluence
  # - name: cplusplus
-  - name: csharp
-  - name: css3
+#  - name: csharp
+#  - name: css3
 #  - name: cucumber
-  - name: d3js
+#  - name: d3js
 #  - name: debian
 #  - name: devicon
-  - name: django
+#  - name: django
 #  - name: docker
 #  - name: doctrine
 #  - name: dot-net
@@ -92,61 +106,61 @@ skills:
 #  - name: gradle
 #  - name: grunt
 #  - name: gulp
-  - name: heroku
-  - name: html5
+#  - name: heroku
+#  - name: html5
 #  - name: ie10
 #  - name: illustrator
 #  - name: inkscape
 #  - name: itellij
-  - name: java
+#  - name: java
 #  - name: jasmine
-  - name: javascript
+#  - name: javascript
 #  - name: laravel
 #  - name: less
   - name: linux
 #  - name: meteor
 #  - name: mocha
-  - name: mongodb
+#  - name: mongodb
 #  - name: moodle
-  - name: mysql
+#  - name: mysql
 #  - name: nginx
-  - name: nodejs
+#  - name: nodejs
 #  - name: nodewebkit
 #  - name: oracle
 #  - name: photoshop
-  - name: php
+#  - name: php
 #  - name: phpstorm
 #  - name: protractor
-  - name: postgresql
-  - name: python
-#  - name: pycharm
+#  - name: postgresql
+#  - name: python
+   - name: pycharm
 #  - name: rails
-  - name: react
+#  - name: react
 #  - name: redhat
 #  - name: redis
 #  - name: ruby
 #  - name: rubymine
 #  - name: safari
-  - name: sass
-  - name: sequelize
-  - name: slack
+#  - name: sass
+#  - name: sequelize
+   - name: slack
 #  - name: sourcetree
 #  - name: ssh
 #  - name: swift
 #  - name: symfony
 #  - name: tomcat
 #  - name: travis
- # - name: trello
- # - name: twitter
- # - name: typescript
-  - name: ubuntu
- # - name: vim
- # - name: visualstudio
- # - name: vuejs
-  - name: webpack
- # - name: webstorm
- # - name: windows8
-  - name: wordpress
+#  - name: trello
+#  - name: twitter
+#  - name: typescript
+   - name: ubuntu
+#  - name: vim
+#  - name: visualstudio
+#  - name: vuejs
+#  - name: webpack
+#  - name: webstorm
+#  - name: windows8
+#  - name: wordpress
 #  - name: yii
 #  - name: zend
 

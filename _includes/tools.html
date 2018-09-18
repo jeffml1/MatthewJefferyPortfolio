@@ -8,11 +8,11 @@
         <div class="card-content">
 
 
-      {% for skill in site.skills %}
-        {% if skill.name and skill.uri %}
-          <img src="{{skill.uri}}" style="height:{{site.icon_size}}px;" title="{{skill.name}}"></img>
+      {% for tool in site.tools %}
+        {% if tool.name and tool.uri %}
+          <img src="{{tool.uri}}" style="height:{{site.icon_size}}px;" title="{{tool.name}}"></img>
         {% else %}
-          <i class="devicon-{{skill.name}}-plain {{site.colored}}" style="font-size:{{site.icon_size}}px;" title="{{skill.name}}"></i>
+          <i class="devicon-{{tool.name}}-plain {{site.colored}}" style="font-size:{{site.icon_size}}px;" title="{{tool.name}}"></i>
         {% endif %}
       {% endfor %}
       </div>
