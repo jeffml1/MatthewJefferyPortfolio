@@ -40,6 +40,14 @@ portfolio_type: cards
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
+experience:
+  - name: csharp
+  - name: css3
+  - name: d3js
+  - name: django
+
+
+
 skills:
 #  - name: amazonwebservices
   - name: android
