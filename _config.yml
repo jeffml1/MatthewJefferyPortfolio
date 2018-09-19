@@ -31,8 +31,13 @@ project_three_icon: hotel
 
 project_four: Knox & Anderson
 project_four_description: Website I built while working at The Logic Studio
-project_four_url: http://knoxandanderson.co.nz
+project_four_url: https://knoxandanderson.co.nz
 project_four_icon: restaurant
+
+project_five: Karitane Maori Tours
+project_five_description: Website I built while working at The Logic Studio
+project_five_url: https://karitanemaoritours.nz
+project_five_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
